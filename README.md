@@ -4,7 +4,7 @@
 
 <h3> Descripción breve </h3>
 
-<p align="center"> Este un programa desarrolado con las tecnologias de Java, MySQL y Docker. Su finalidad es realizar un pronostico automatizado del resultado de 20 partidos con los equipos del futbol argentino.</p>
+<p align="center"> Este un programa desarrollado con las tecnologias de Java, MySQL y Docker. Su finalidad es realizar un pronostico automatizado del resultado de 20 partidos con los equipos del futbol argentino.</p>
 
 <h3> Instrucciones </h3>
 
